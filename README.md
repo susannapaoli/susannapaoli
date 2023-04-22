@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Natural Language Processing
+
+[Neural Part of Speech Tagging](doc: https://github.com/susannapaoli/neural-part-of-speech-tagging.git)
