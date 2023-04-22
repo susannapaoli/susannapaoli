@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 [Neural Chatbot](https://github.com/susannapaoli/neural-chatbot.git) \
 [Neural Bag of Words](https://github.com/susannapaoli/nbow.git) \
 [Embedding algorithms' ability to encode stereotypes in word representations: Gender Bias and Cultural Journalism](https://github.com/susannapaoli/gender-bias-and-cultural-journalism.git) \
-[Embeddings in neural machine translation](https://github.com/susannapaoli/NLP-final-project.git) 
+[Embeddings in neural machine translation](https://github.com/susannapaoli/NLP-final-project.git) \
+[Hateful speech detection in image captions with pre-trained language models (Meta Hateful Memes Challenge)](https://github.com/susannapaoli/hateful-speech-memes.git) 
 
 ## 🤖 Machine Learning
 [Classification Pipeline](https://github.com/susannapaoli/ML-classification-problem.git) \
