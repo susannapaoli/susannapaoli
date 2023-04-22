@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Natural Language Processing
+## 💬 Natural Language Processing
 
 [Neural Part of Speech Tagging](https://github.com/susannapaoli/neural-part-of-speech-tagging.git) \
 [Neural Chatbot](https://github.com/susannapaoli/neural-chatbot.git) \
 [Embedding algorithms' ability to encode gender bias in word representations](https://github.com/susannapaoli/gender-bias-and-cultural-journalism.git) \
-[Embeddings in neural machine translation](https://github.com/susannapaoli/NLP-final-project.git) \
+[Embeddings in neural machine translation](https://github.com/susannapaoli/NLP-final-project.git) 
 
-## Machine Learning
+## 🤖 Machine Learning
 [Classification Pipeline](https://github.com/susannapaoli/ML-classification-problem.git) \
-[Logistic regression from scratch](https://github.com/susannapaoli/logistic-regression-from-scratch.git) \
+[Logistic regression from scratch](https://github.com/susannapaoli/logistic-regression-from-scratch.git) 
 
-## Deep Learning 
+## 💡 Deep Learning 
 [Neural Networks from scratch for MNIST dataset](https://github.com/susannapaoli/neural-networks-from-scratch.git) \
 [Convolutional Neural Networks for CIFAR-10 dataset (PyTorch)](https://github.com/susannapaoli/convnet-pytorch.git) \
 [Convolutional Neural Networks for CIFAR-10 dataset (from scratch)](https://github.com/susannapaoli/convolutional-neural-networks-from-scratch.git) \
-[Network Visualization and Style Transfer](https://github.com/susannapaoli/network-visualization-and-style-transfer.git) \ 
+[Network Visualization and Style Transfer](https://github.com/susannapaoli/network-visualization-and-style-transfer.git) 
 
-## Web Scraping and Data Wrangling 
-[New York Times scraper](https://github.com/susannapaoli/web-scraper-nyt.git) \
+## 📊 Web Scraping and Data Wrangling 
+[New York Times scraper](https://github.com/susannapaoli/web-scraper-nyt.git) 
