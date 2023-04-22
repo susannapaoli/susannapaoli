@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [Neural Part of Speech Tagging](https://github.com/susannapaoli/neural-part-of-speech-tagging.git) \
 [Neural Chatbot](https://github.com/susannapaoli/neural-chatbot.git) \
 [Neural Bag of Words](https://github.com/susannapaoli/nbow.git) \
-[Embedding algorithms' ability to encode gender bias in word representations](https://github.com/susannapaoli/gender-bias-and-cultural-journalism.git) \
+[Embedding algorithms' ability to encode stereotypes in word representations: Gender Bias and Cultural Journalism](https://github.com/susannapaoli/gender-bias-and-cultural-journalism.git) \
 [Embeddings in neural machine translation](https://github.com/susannapaoli/NLP-final-project.git) 
 
 ## 🤖 Machine Learning
