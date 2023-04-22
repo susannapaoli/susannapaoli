@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 #### Natural Language Processing
 
-[Neural Part of Speech Tagging](doc: https://github.com/susannapaoli/neural-part-of-speech-tagging.git)
+[Neural Part of Speech Tagging](https://github.com/susannapaoli/neural-part-of-speech-tagging.git)
