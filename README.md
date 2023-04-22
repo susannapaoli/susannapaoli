@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 
 ## 💡 Deep Learning 
 [Neural Networks from scratch for MNIST dataset](https://github.com/susannapaoli/neural-networks-from-scratch.git) \
-[Convolutional Neural Networks for CIFAR-10 dataset (PyTorch)](https://github.com/susannapaoli/convnet-pytorch.git) \
-[Convolutional Neural Networks for CIFAR-10 dataset (from scratch)](https://github.com/susannapaoli/convolutional-neural-networks-from-scratch.git) \
 [Network Visualization and Style Transfer](https://github.com/susannapaoli/network-visualization-and-style-transfer.git) 
+
+### 🖥️ Computer Vision
+[Convolutional Neural Networks for CIFAR-10 dataset (PyTorch)](https://github.com/susannapaoli/convnet-pytorch.git) \
+[Convolutional Neural Networks for CIFAR-10 dataset (from scratch)](https://github.com/susannapaoli/convolutional-neural-networks-from-scratch.git) 
 
 ## 📊 Web Scraping and Data Wrangling 
 [New York Times scraper](https://github.com/susannapaoli/web-scraper-nyt.git) 
