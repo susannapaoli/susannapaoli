@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 [Neural Chatbot](https://github.com/susannapaoli/neural-chatbot.git) \
 [Neural Bag of Words](https://github.com/susannapaoli/nbow.git) \
 [Embedding algorithms' ability to encode stereotypes in word representations: Gender Bias and Cultural Journalism](https://github.com/susannapaoli/gender-bias-and-cultural-journalism.git) \
-[Embeddings in neural machine translation](https://github.com/susannapaoli/NLP-final-project.git) 
+[Embeddings in neural machine translation](https://github.com/susannapaoli/NLP-final-project.git) \
+[Detecting Hate Speech in Multimodal Memes (Meta Hateful Memes Challenge)](https://github.com/susannapaoli/hateful-speech-memes.git) 
 
 ## 🤖 Machine Learning
 [Classification Pipeline](https://github.com/susannapaoli/ML-classification-problem.git) \
@@ -30,12 +31,12 @@ Here are some ideas to get you started:
 
 ## 💡 Deep Learning 
 [Neural Networks from scratch for MNIST dataset](https://github.com/susannapaoli/neural-networks-from-scratch.git) \
-[Network Visualization and Style Transfer](https://github.com/susannapaoli/network-visualization-and-style-transfer.git) \
-[Detecting Hate Speech in Multimodal Memes (Meta Hateful Memes Challenge)](https://github.com/susannapaoli/hateful-speech-memes.git) 
+[Network Visualization and Style Transfer](https://github.com/susannapaoli/network-visualization-and-style-transfer.git) 
 
 ### 🖥️ Computer Vision
 [Convolutional Neural Networks for CIFAR-10 dataset (PyTorch)](https://github.com/susannapaoli/convnet-pytorch.git) \
-[Convolutional Neural Networks for CIFAR-10 dataset (from scratch)](https://github.com/susannapaoli/convolutional-neural-networks-from-scratch.git) 
+[Convolutional Neural Networks for CIFAR-10 dataset (from scratch)](https://github.com/susannapaoli/convolutional-neural-networks-from-scratch.git) \
+[Detecting Hate Speech in Multimodal Memes (Meta Hateful Memes Challenge)](https://github.com/susannapaoli/hateful-speech-memes.git) 
 
 ## 📊 Web Scraping and Data Wrangling 
 [New York Times scraper](https://github.com/susannapaoli/web-scraper-nyt.git) 
