@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 [Convolutional Neural Networks for CIFAR-10 dataset (from scratch)](https://github.com/susannapaoli/convolutional-neural-networks-from-scratch.git) \
 [Detecting Hate Speech in Multimodal Memes (Meta Hateful Memes Challenge)](https://github.com/susannapaoli/hateful-speech-memes.git) 
 
-## 📊 Web Scraping and Data Wrangling 
+## 📊 Data Wrangling, Web Scraping, and APIs 
 [New York Times scraper](https://github.com/susannapaoli/web-scraper-nyt.git) 
